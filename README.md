@@ -18,13 +18,17 @@ Utilizamos como lenguaje de programación Python 3 y principalemente las libreri
 [Presentación](https://docs.google.com/presentation/d/1i5_KHpG_WIHBMmW2p-O4BR7EaWrRTZqDzrsLH9dihss/edit?usp=sharing)
 
 ### Ejemplos
-~Se cumple Sana Distancia~
+**Se cumple Sana Distancia**
 ![](evidencia/Dist_0.png)
-~No se cumple Sana Distancia~
+**No se cumple Sana Distancia**
 ![](evidencia/Dist_1.png)
-~Identificación y Clasificación de Caras con y sin Mascarilla~
-![](evidencia/Dist_1.png)
+**Identificación y Clasificación de Caras con y sin Mascarilla**
 ![](evidencia/Mask_0.png)
+
+**Videos:**
+1. [Identificador de Cuerpo + Criterio de Distancia](https://youtu.be/gz_abklO-U8)
+2. [Pruebas de Clasificador de Caras](https://youtu.be/AGP-IsJ0AQo)
+3. [Demo de Funcion con juguetes](https://youtu.be/ArKs-VdgAbQ)
 
 ### Desarrollado por:
 [Alberto Ibarra](https://github.com/albertoid) y [Julio Cesar Renteria](https://github.com/juliocrn94) 
