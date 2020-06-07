@@ -18,7 +18,13 @@ Utilizamos como lenguaje de programación Python 3 y principalemente las libreri
 [Presentación](https://docs.google.com/presentation/d/1i5_KHpG_WIHBMmW2p-O4BR7EaWrRTZqDzrsLH9dihss/edit?usp=sharing)
 
 ### Ejemplos
+~Se cumple Sana Distancia~
 ![](evidencia/Dist_0.png)
+~No se cumple Sana Distancia~
+![](evidencia/Dist_1.png)
+~Identificación y Clasificación de Caras con y sin Mascarilla~
+![](evidencia/Dist_1.png)
+![](evidencia/Mask_0.png)
 
 ### Desarrollado por:
 [Alberto Ibarra](https://github.com/albertoid) y [Julio Cesar Renteria](https://github.com/juliocrn94) 
